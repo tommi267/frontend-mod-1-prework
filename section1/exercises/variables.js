@@ -23,33 +23,49 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var string = 'Harry Potter must not return to Hogwarts!';
+console.log(string);
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
-  // Store the appropriate data types in each.
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
+// Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = 'Thomas';
+var isHungry = false;
+var numberOfPets = 0;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
-  // Explain.
-
+// How did you decide to use the data type you did for each of the three variables above?
+// Explain.
+// I used  string for firstName because names care usually consist of letterd
+// I used boolean for isHungry because it a true false question
+// I used number for numberOfPets because is asking for a number value
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
-  // values (but same data type).
+// Re-assign the values to the three variables from the previous challenge to different
+// values (but same data type).
 // log all three variables to the console.
+firstName = 'Kate';
+isHungry = true;
+numberOfPets = 2;
 
-
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+console.log(healthySnacks);
+console.log(junkFoodSnacks);
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect? Yes
