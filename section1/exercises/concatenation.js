@@ -51,7 +51,7 @@ var name  = "Thomas";
 var month = "June";
 var numberOfMountains = 5;
 
-console.log(name + " has hiked "+ numberOfMountains+" since "+ month +"!")
+console.log(name + " has hiked "+ numberOfMountains+" mountains since "+ month +"!")
 
 //-------------------
 // FINAL CHECK
