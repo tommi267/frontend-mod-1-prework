@@ -25,6 +25,7 @@ console.log("Hello World!")
 A key that used to hold a data value.
 
 6. Think of a site or app you use frequently. What are three variables that are probably used? Which data type would each of those variables probably hold?
+
 Username - a string
 
 password - a encrypted string
