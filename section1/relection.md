@@ -1,12 +1,13 @@
 ## Section 1 Reflection
 
 1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
+
 Number 3 and 4 really resonate with me. It something that I believe in. Number 1 and 6 is something I would like to do more of.
 
 2. What are the data types you learned about in this section? In your own words, define each.
-String - consists of letters wrapped in quotes  
-Number - numbers including negative and decimals
-Boolean - true or false
+-String - consists of letters wrapped in quotes  
+-Number - numbers including negative and decimals
+-Boolean - true or false
 
 3. How would you log the string `"Hello World!"` to the console?
 ```javascript
