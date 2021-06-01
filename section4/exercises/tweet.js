@@ -9,11 +9,11 @@ tweet object instances _behave_ as expected.
 */
 
 class Tweet {
-  constructor(author, content, timeStamp, comments){
+  constructor(author, content, timeStamp){
     this.author = author;
     this.content = content;
     this.timeStamp = timeStamp;
-    this.comments = comments;
+    this.comments = [];
     this.numberOfLikes = 0;
   }
 
@@ -26,10 +26,10 @@ class Tweet {
 
 };
 
-var newTweet = new Tweet('Tom','Sixers FTW!!','06/02/2021 22:00',['🔥🔥']);
+var newTweet = new Tweet('Tom','Sixers FTW!!','06/02/2021 22:00');
 console.log(newTweet);
 
-newTweet.newComment('Great game!!');
+newTweet.newComment('Great game!!🔥🔥');
 console.log(newTweet);
 
 newTweet.increaseLikes(99);
