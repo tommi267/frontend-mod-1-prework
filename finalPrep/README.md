@@ -31,9 +31,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- <img width="1088" alt="Screen Shot 2021-06-05 at 12 46 13 PM" src="https://user-images.githubusercontent.com/54600612/120899176-5c8b5e00-c5fc-11eb-9b9c-ac9e52432ebb.png">
-- <img width="1249" alt="Screen Shot 2021-06-05 at 12 46 57 PM" src="https://user-images.githubusercontent.com/54600612/120899226-9f4d3600-c5fc-11eb-8211-b7226f768f92.png">
-- <img width="1241" alt="Screen Shot 2021-06-05 at 12 47 25 PM" src="https://user-images.githubusercontent.com/54600612/120899251-c3a91280-c5fc-11eb-93d7-53b39f1baa18.png">
+<img width="1120" alt="Screen Shot 2021-07-24 at 7 07 01 PM" src="https://user-images.githubusercontent.com/54600612/126883074-2dd8f302-071a-42ec-b06d-0330a873f385.png">
+<img width="1128" alt="Screen Shot 2021-07-24 at 7 07 23 PM" src="https://user-images.githubusercontent.com/54600612/126883075-c4e31624-9729-4524-9c81-3a44d7c8b94b.png">
+<img width="1129" alt="Screen Shot 2021-07-24 at 7 07 41 PM" src="https://user-images.githubusercontent.com/54600612/126883076-f1d22e6a-05c0-4b58-8bd1-f7948de38f7e.png">
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
@@ -43,7 +43,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [ ] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
-  - [ ] Add a link to your gist here:
+  - [ ] Add a link to your gist here:[Link to gist](https://gist.github.com/tommi267/0e12f197e3f1bc90f4ae8e92b54ebace)
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
